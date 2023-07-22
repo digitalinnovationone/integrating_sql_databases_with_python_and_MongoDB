@@ -1,5 +1,7 @@
   # Data Transformation With Python Mysql Mongodb Database
 
+  Who is Juliana Mascarenhas: [Know my work](https://linktr.ee/simplificandoredes)
+
 ## Project: RDBMS to MongoDB Data Transformation
 
 This repository is related to a data ETL for DIO class called acelleration. In this particular class, we going to build a code with three steps: Step 1: collect data from MySQL; Step 2: transforma the data; Step 3: Ingest the data into the new model with MongoDB Database.
